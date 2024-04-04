@@ -1,0 +1,62 @@
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.exe.config
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.exe
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.pdb
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\MySql.Data.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Google.Protobuf.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Zstandard.Net.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\BouncyCastle.Crypto.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Ubiety.Dns.Core.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Renci.SshNet.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Buffers.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Compression.LZ4.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Hash.xxHash.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Memory.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\MySql.Data.xml
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csprojAssemblyReference.cache
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.exe.config
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.Properties.Resources.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.GenerateResource.cache
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.CoreCompileInputs.cache
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.CopyComplete
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.exe
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.pdb
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmCliente.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmProduto.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmPrincipal.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmCategoria.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmFornecedor.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmTipoUsuario.resources
+C:\Gabriel\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.FrmLogin.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.exe.config
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.exe
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\ProjetoProduto_3A07.pdb
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Google.Protobuf.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Zstandard.Net.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\BouncyCastle.Crypto.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Ubiety.Dns.Core.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\Renci.SshNet.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Buffers.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Compression.LZ4.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\K4os.Hash.xxHash.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Memory.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\bin\Debug\MySql.Data.xml
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.AssemblyReference.cache
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.SuggestedBindingRedirects.cache
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.exe.config
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.Properties.Resources.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmCategoria.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmCliente.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmFornecedor.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmPrincipal.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmProduto.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.UI.FrmTipoUsuario.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.FrmLogin.resources
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.GenerateResource.cache
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoP.81901B1C.Up2Date
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.exe
+G:\Meu Drive\Gabriel\Antigos\Cotemig\Poo\ProjetoProduto_3A07\ProjetoProduto_3A07\obj\Debug\ProjetoProduto_3A07.pdb
